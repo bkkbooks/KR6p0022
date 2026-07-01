@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6p0022/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: 其他, offset: 0, content: 彌陀經疏鈔演義定本, id: KR6p0022_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿彌陀經疏鈔演義
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X22/X22n0427.xml
+    old_id: X22n0427
+hash: sha256:a21c1155de74f7dd73da2ad9717f2d421b5441cef6d320d3f14b2768a7d5e2a2
