@@ -22,15 +22,16 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6p0022_000.yaml, hash: 'sha256:a21c1155de74f7dd73da2ad9717f2d421b5441cef6d320d3f14b2768a7d5e2a2'}
-  - {seq: 1, filename: KR6p0022_001.yaml, hash: 'sha256:1ab7f35d6fba78f1463c6cba0e1c8bc4ff95ccd2051af1f143539b6062c4eea0'}
-  - {seq: 2, filename: KR6p0022_002.yaml, hash: 'sha256:9ca346f9d71efd38eb5928014064aa8de4c347141a9cf976f13003855ffd1c8c'}
-  - {seq: 3, filename: KR6p0022_003.yaml, hash: 'sha256:5a9feecd74cb2c4dcef8755fdbf0cd295b6f57703e2a753308c76b100214f1cf'}
-  - {seq: 4, filename: KR6p0022_004.yaml, hash: 'sha256:36d24099a293626f5c1ec2233e26c0544ef49396647a6f5411f1ab79802683fd'}
+  - {seq: 1, filename: KR6p0022_001.yaml, hash: 'sha256:63477ef6cff9f9c323e0917db2c0c35359ce36b163c1ddab4389a57780cee09d'}
+  - {seq: 2, filename: KR6p0022_002.yaml, hash: 'sha256:bbbbc3cf2b0c20c07e67d3440bce84e41b1d13c567ad7a2c6f50a8c0b4060769'}
+  - {seq: 3, filename: KR6p0022_003.yaml, hash: 'sha256:7aeb4dfb3b116870c88c08c64276c88b566ad26df595c915bd8fb692bbec78ba'}
+  - {seq: 4, filename: KR6p0022_004.yaml, hash: 'sha256:bcd170e180dedd499077cbb93393fa86c943a97478bba64fa5104879e58d2cda'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6p0022_001.markers.yaml, hash: 'sha256:e43aec8d2d02d7cb65dd78dc27a5dc4c8c24391a443a95269472feadbb7fa763'}
-  - {seq: 2, role: markers, filename: assets/KR6p0022_002.markers.yaml, hash: 'sha256:394e4b3ed550c85d1b9510cb9e55c09e70cef1120a257139802503d380c0b952'}
-  - {seq: 3, role: markers, filename: assets/KR6p0022_003.markers.yaml, hash: 'sha256:458a4785955c8ee4cdeb5a2ec949446762368219beef1f547fe2dfaa43aa759d'}
-  - {seq: 4, role: markers, filename: assets/KR6p0022_004.markers.yaml, hash: 'sha256:9aa1a0e7227a37beb89726dda598d7fc84f8b7e8f7eef56e9505297c55fd5d4c'}
+  - {seq: 0, role: markers, filename: assets/KR6p0022_000.markers.yaml, hash: 'sha256:7cc034b842cc2bae6237e7be0c912f62242cf94da778855620fbadac6522b5c9'}
+  - {seq: 1, role: markers, filename: assets/KR6p0022_001.markers.yaml, hash: 'sha256:657fa6ff154235a1a1e91684221897ab9f7e377e535c8d43dda156ae436b1779'}
+  - {seq: 2, role: markers, filename: assets/KR6p0022_002.markers.yaml, hash: 'sha256:436f8f7b6c83e8d65dd61e07064f19fd5477c8dc43038edee9553967f89c9e17'}
+  - {seq: 3, role: markers, filename: assets/KR6p0022_003.markers.yaml, hash: 'sha256:69d9908111ecd1303d373ded393614646c0d0127a56439fa23f2b9c154c37f49'}
+  - {seq: 4, role: markers, filename: assets/KR6p0022_004.markers.yaml, hash: 'sha256:0d59bdba42029c935a0e416c74e0f1cbd127c6795e71e1bd30e1dd5ec0d28613'}
 table_of_contents:
 - ref:
     seq: 0
@@ -92,7 +93,4 @@ table_of_contents:
   label: No. 427-A 重刻阿彌陀經疏鈔演義原序
   type: mulu
   level: 1
-hash: sha256:7c08d0126593baa7c9481a33d3fb4c337e69ed67ae149777226a4c38cf909e08
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:da59d72be5d3833b437b0a3d9b40ec99f0b4a9e3bd06e406464ec4964ad0a541
